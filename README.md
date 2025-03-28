@@ -2,6 +2,8 @@
 ChatGPT와 Cursor을 사용해 파이썬으로 프로그래밍을 해봄
 오늘은 Cursor AI를 통해 스네이크 게임을 만들어봄
 
+<img src="https://github.com/gomtam/image/blob/main/250328/KakaoTalk_20250328_112706698.png" width="400"><img src="https://github.com/gomtam/image/blob/main/250328/KakaoTalk_20250328_112404809.png" width="400">
+
 # 파이썬 스네이크 게임
 
 간단한 파이썬 스네이크 게임입니다. 뱀을 조작하여 음식을 먹고 길이를 늘려보세요!
